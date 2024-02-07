@@ -6,7 +6,7 @@
 # It can be of different daya types
 my_shopping_list = ["Butter Milk", "Oranges", "Apple", "Flowers"]
 print(len(my_shopping_list))
-print(my_shopping_list[0])
+print(len(my_shopping_list[0]))
 print(my_shopping_list[2])
 print(my_shopping_list[-1])
 
