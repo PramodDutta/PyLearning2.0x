@@ -4,7 +4,7 @@
 
 # Reverse a String
 
-def reverse_string(str):
+def reverse_string(str): #Pramod ->  domarP
     rev_str = ""
     for c in str:
         rev_str = c + rev_str
